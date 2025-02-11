@@ -7,7 +7,6 @@ import os
 import pickle
 from tensorflow.keras.preprocessing import image_dataset_from_directory
 
-
 # 1. Set Constants
 DATA_DIR = r"C:\Users\Administrateur\Desktop\LCD_DIGIT\data"   
 IMG_SIZE = (28, 28)
