@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 
+
 # Load the trained model
 model = keras.models.load_model("lcd_digit_recognition.h5")
 
