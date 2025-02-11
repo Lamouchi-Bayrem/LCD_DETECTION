@@ -14,13 +14,15 @@ This repository contains a complete pipeline for recognizing LCD-style digits us
 ## Project Structure
 
 ```
-├── MODEL.py             # Training script for CRNN model
-├── test.py              # Script for evaluating the trained model
-├── gui.py               # GUI application for digit recognition
+├── MODEL.py                  # Training script for CRNN model
+├── test.py                   # Script for evaluating the trained model
+├── gui.py                    # GUI application for digit recognition
 ├── Live_Digit_Recognition.py # Real-time LCD digit recognition
-├── samples/             # Folder containing sample images for testing
-├── README.md            # Project documentation
-├── requirements.txt     # List of dependencies
+├── samples/                  # Folder containing sample images for testing
+├── README.md                 # Project documentation
+├── requirements.txt          # List of dependencies
+├── lcd_digit_recognition.pkl # Model (Pickle Format)
+├── lcd_digit_recognition.h5  # Model (HDF5 Format)
 ```
 
 ---
