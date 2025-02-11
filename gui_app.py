@@ -6,6 +6,7 @@ import numpy as np
 import pickle
 from PIL import Image, ImageTk
 
+
 # Load the trained model
 def load_model():
     with open("lcd_digit_recognition.pkl", "rb") as file:
