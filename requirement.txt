@@ -7,4 +7,4 @@ pillow==10.0.0
 scipy==1.11.1
 h5py==3.9.0
 pyqt5==5.15.9  # If using PyQt for GUI
-pyqt5-tools==5.15.9.3.3  # Additional tools for PyQt GUI
+
